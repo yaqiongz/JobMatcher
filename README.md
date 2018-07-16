@@ -13,3 +13,5 @@ tried it and it gave me a surprising and meaningful job recommendation.
 -[Report](https://github.com/yaqiongz/JobMatcher/blob/master/report_final.pdf)
 
 -[Jupyter notebook](https://github.com/yaqiongz/JobMatcher/blob/master/data_wrangling.ipynb)
+
+[stackoverflow useful links](https://stackoverflow.com/questions/32759712/how-to-find-the-closest-word-to-a-vector-using-word2vec)
